@@ -1,2 +1,2 @@
 # middleware
-web service avec middleware, psr-7
+web service avec middleware, psr
